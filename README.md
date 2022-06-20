@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Created a website that would be used by a manufacturing company. The company in this project is called Canadian Auto Vendor (not a real company). The website was created to utilize my skills of HTML, CSS, and Bootstrap. The website is also responsive for mobile, tablet, and desktop devices. 
+Portfolio project for Tom Cieslukowski. The portfolio was created with HTML, CSS, JavaScript, CSS Grid, and CSS Flexbox. Bootstrap was used in the project for the skills section. The website is also responsive for mobile, tablet, and desktop devices. 
 
 <img width="1442" alt="Screen Shot 2022-06-20 at 6 34 01 PM" src="https://user-images.githubusercontent.com/44185784/174689462-cc73e1e9-b990-4e7e-be5d-8e5d137990d9.png">
 
@@ -12,6 +12,7 @@ Created a website that would be used by a manufacturing company. The company in 
 - HTML5
 - CSS3
 - JavaScript
+- Bootstrap 5
 - CSS Grid and CSS Flexbox
 
 ## How to Install 
