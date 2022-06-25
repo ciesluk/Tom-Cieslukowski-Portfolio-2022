@@ -54,7 +54,8 @@ li a:hover{
 /*Introduction section styles*/
 
 section{
-    padding: 70px 17%;
+    /*Was 70 pixels*/
+    padding: 150px 17%;
 }
 
 .introduction{
@@ -170,7 +171,15 @@ section{
     margin-top: 30px;
 }
 
+.skills{
+    padding-top: 35px;
+}
+
 /*Project Section Style*/
+
+.projects{
+    padding-top: 10px;
+}
 
 .first-project, .second-project, .third-project{
     border: 3px solid rgb(235, 130, 25);
